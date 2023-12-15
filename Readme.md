@@ -1,3 +1,3 @@
 # Javascript Backend
 
-This is backend with javascript for learning js.
+A simple initial setup for node js project with user registration, login and logout.
